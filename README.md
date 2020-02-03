@@ -9,5 +9,5 @@ $ python2 start.py
 ```
 # thanks to programing life 
 #### All members programing triger
-#### md shojin vau
+#### md shojib vau
 ####  dont use that for illegal work.
